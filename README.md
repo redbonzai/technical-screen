@@ -1,5 +1,6 @@
-
-# Golang Project -
+### NOTE: 
+This code can be accessed via the following REPL: [ACCESS IT HERE](https://replit.com/@redbonzai/algorithms-structures)
+# Golang Project
 
 ```markdown
 # Golang Sort Package
@@ -19,7 +20,7 @@ golang/
 
 ## Installation
 
-1. Navigate to the `golang` directory:
+1. Navigate to the `golang` directory (assuming project is in the ~/Code directory):
    ```bash
    cd ~/Code/technical-screen/golang
    ```
@@ -63,7 +64,7 @@ This will execute the tests in `sort_test.go` and ensure the sorting logic is fu
 
 ---
 
-## TypeScript Project - `README.md`
+# TypeScript Project
 
 ```markdown
 # TypeScript Sort Package
