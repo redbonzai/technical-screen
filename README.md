@@ -128,6 +128,8 @@ npm run test
 This will run the test suite using Jest and ensure that the sorting logic works as expected.
 
 ---
+### SAMPLE
+To sample the sort function, just run the src/index.ts file by first building `npm run build`, and then executing `node dist/index.js`
 
 With these `README.md` files in place, both your Golang and TypeScript projects will be well-documented for installation, building, testing, and running the applications.
 
