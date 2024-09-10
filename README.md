@@ -1,5 +1,5 @@
 
-# Golang Project -
+# Golang Project
 
 ```markdown
 # Golang Sort Package
@@ -63,7 +63,7 @@ This will execute the tests in `sort_test.go` and ensure the sorting logic is fu
 
 ---
 
-## TypeScript Project - `README.md`
+# TypeScript Project
 
 ```markdown
 # TypeScript Sort Package
